@@ -23,4 +23,5 @@ public class NewTest {
   public void TestDivision() {
 	  Assert.assertEquals(CalculatorApp.division(4, 2), (float)2.0, "Method Division is fail!");
   }
+  //test
 }
