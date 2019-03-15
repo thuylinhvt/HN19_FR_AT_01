@@ -1,0 +1,24 @@
+-------------------------------------------------------------------------------
+Test set: com.fpt.TestMyTriangle
+-------------------------------------------------------------------------------
+Tests run: 4, Failures: 4, Errors: 0, Skipped: 0, Time elapsed: 0.423 sec <<< FAILURE!
+TestContructor1(com.fpt.TestMyTriangle)  Time elapsed: 0.024 sec  <<< FAILURE!
+java.lang.IllegalArgumentException: Not a triangle!
+	at com.fpt.excercise3.MyTriangle.<init>(MyTriangle.java:16)
+	at com.fpt.TestMyTriangle.TestContructor1(TestMyTriangle.java:16)
+
+TestContructor2(com.fpt.TestMyTriangle)  Time elapsed: 0 sec  <<< FAILURE!
+java.lang.NullPointerException
+	at com.fpt.excercise3.MyTriangle.<init>(MyTriangle.java:26)
+	at com.fpt.TestMyTriangle.TestContructor2(TestMyTriangle.java:27)
+
+TestGetPerimeter(com.fpt.TestMyTriangle)  Time elapsed: 0 sec  <<< FAILURE!
+java.lang.IllegalArgumentException: Not a triangle!
+	at com.fpt.excercise3.MyTriangle.<init>(MyTriangle.java:16)
+	at com.fpt.TestMyTriangle.TestGetPerimeter(TestMyTriangle.java:52)
+
+TestToString(com.fpt.TestMyTriangle)  Time elapsed: 0.004 sec  <<< FAILURE!
+java.lang.IllegalArgumentException: Not a triangle!
+	at com.fpt.excercise3.MyTriangle.<init>(MyTriangle.java:16)
+	at com.fpt.TestMyTriangle.TestToString(TestMyTriangle.java:39)
+

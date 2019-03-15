@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="6" passed="6">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Command line suite" duration-ms="65" started-at="2019-03-06T18:52:21Z" finished-at="2019-03-06T18:52:21Z">
+    <groups>
+    </groups>
+    <test name="Command line test" duration-ms="65" started-at="2019-03-06T18:52:21Z" finished-at="2019-03-06T18:52:21Z">
+      <class name="com.fpt.xmlTest">
+        <test-method status="PASS" signature="f()[pri:0, instance:com.fpt.xmlTest@43a25848]" name="f" duration-ms="12" started-at="2019-03-06T18:52:21Z" finished-at="2019-03-06T18:52:21Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- f -->
+      </class> <!-- com.fpt.xmlTest -->
+      <class name="com.fpt.TestMyTriangle">
+        <test-method status="PASS" signature="TestContructor1()[pri:0, instance:com.fpt.TestMyTriangle@3ac3fd8b]" name="TestContructor1" duration-ms="4" started-at="2019-03-06T18:52:21Z" finished-at="2019-03-06T18:52:21Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestContructor1 -->
+        <test-method status="PASS" signature="TestGetPerimeter()[pri:0, instance:com.fpt.TestMyTriangle@3ac3fd8b]" name="TestGetPerimeter" duration-ms="1" started-at="2019-03-06T18:52:21Z" finished-at="2019-03-06T18:52:21Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestGetPerimeter -->
+        <test-method status="PASS" signature="TestPrintIsoscelesType()[pri:0, instance:com.fpt.TestMyTriangle@3ac3fd8b]" name="TestPrintIsoscelesType" duration-ms="0" started-at="2019-03-06T18:52:21Z" finished-at="2019-03-06T18:52:21Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestPrintIsoscelesType -->
+        <test-method status="PASS" signature="TestPrintScalene()[pri:0, instance:com.fpt.TestMyTriangle@3ac3fd8b]" name="TestPrintScalene" duration-ms="0" started-at="2019-03-06T18:52:21Z" finished-at="2019-03-06T18:52:21Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestPrintScalene -->
+        <test-method status="PASS" signature="TestToString()[pri:0, instance:com.fpt.TestMyTriangle@3ac3fd8b]" name="TestToString" duration-ms="0" started-at="2019-03-06T18:52:21Z" finished-at="2019-03-06T18:52:21Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestToString -->
+      </class> <!-- com.fpt.TestMyTriangle -->
+    </test> <!-- Command line test -->
+  </suite> <!-- Command line suite -->
+</testng-results>

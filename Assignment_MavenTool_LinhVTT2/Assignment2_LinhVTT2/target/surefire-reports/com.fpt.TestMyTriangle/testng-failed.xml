@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite verbose="0" name="Failed suite [com.fpt.TestMyTriangle]">
+  <test thread-count="5" verbose="0" name="Command line test(failed)">
+    <classes>
+      <class name="com.fpt.TestMyTriangle">
+        <methods>
+          <include name="TestGetPerimeter"/>
+          <include name="TestToString"/>
+          <include name="TestContructor2"/>
+          <include name="TestContructor1"/>
+        </methods>
+      </class> <!-- com.fpt.TestMyTriangle -->
+    </classes>
+  </test> <!-- Command line test(failed) -->
+</suite> <!-- Failed suite [com.fpt.TestMyTriangle] -->

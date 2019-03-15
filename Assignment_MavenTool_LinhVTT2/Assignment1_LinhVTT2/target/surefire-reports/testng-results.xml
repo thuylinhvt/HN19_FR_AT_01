@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="calculatorApp.NewTest" duration-ms="43" started-at="2019-03-05T07:00:40Z" finished-at="2019-03-05T07:00:40Z">
+    <groups>
+    </groups>
+    <test name="Command line test" duration-ms="43" started-at="2019-03-05T07:00:40Z" finished-at="2019-03-05T07:00:40Z">
+      <class name="calculatorApp.NewTest">
+        <test-method status="PASS" signature="TestAddition()[pri:0, instance:calculatorApp.NewTest@2f7c7260]" name="TestAddition" duration-ms="14" started-at="2019-03-05T07:00:40Z" finished-at="2019-03-05T07:00:40Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestAddition -->
+        <test-method status="PASS" signature="TestDivision()[pri:0, instance:calculatorApp.NewTest@2f7c7260]" name="TestDivision" duration-ms="0" started-at="2019-03-05T07:00:40Z" finished-at="2019-03-05T07:00:40Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestDivision -->
+        <test-method status="PASS" signature="TestSubtraction()[pri:0, instance:calculatorApp.NewTest@2f7c7260]" name="TestSubtraction" duration-ms="0" started-at="2019-03-05T07:00:40Z" finished-at="2019-03-05T07:00:40Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestSubtraction -->
+        <test-method status="PASS" signature="TestSmultiplication()[pri:0, instance:calculatorApp.NewTest@2f7c7260]" name="TestSmultiplication" duration-ms="0" started-at="2019-03-05T07:00:40Z" finished-at="2019-03-05T07:00:40Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestSmultiplication -->
+      </class> <!-- calculatorApp.NewTest -->
+    </test> <!-- Command line test -->
+  </suite> <!-- calculatorApp.NewTest -->
+</testng-results>
