@@ -1,0 +1,10 @@
+# Home Page Objects
+dropdown= searchDropdownBox
+selectbook = Books
+txtbx_SearchKey = twotabsearchtextbox
+btn_Search = .//*[@id=\"nav-search\"]//input[@type=\"submit\"]
+
+
+# Product Page Object
+linkText = .//div[@data-index='0']//img
+txt_Title = .//*[@id=\"title\"]/span[1]

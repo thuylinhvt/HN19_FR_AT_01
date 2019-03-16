@@ -1,0 +1,11 @@
+# Product Detail Page Object
+product_name = .//*[@itemprop='name']
+product_price = .//*[@id='our_price_display']
+product_quantity = .//*[@id='quantity_wanted']
+product_size = .//*[@id="group_1"]/option[1]
+product_color = //*[@id="color_to_pick_list"]//a
+addToCart_btn = .//*[@id='add_to_cart']/button
+composition_txt = .//*[@id="center_column"]/div/section[1]/table/tbody/tr[1]/td[1]
+styles_txt = .//*[@id="center_column"]/div/section[1]/table/tbody/tr[1]/td[1]
+properties_txt = .//*[@id="center_column"]/div/section[1]/table/tbody/tr[3]/td[1]
+moreInfor_txt = .//*[@id="center_column"]//section[2]/h3

@@ -1,0 +1,167 @@
+2019-03-16 00:18:33,443 INFO  [Log] **************************************************************************************** 
+2019-03-16 00:18:33,444 INFO  [Log] **************************************************************************************** 
+2019-03-16 00:18:33,444 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 Verify_01       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2019-03-16 00:18:33,444 INFO  [Log] **************************************************************************************** 
+2019-03-16 00:18:33,444 INFO  [Log] **************************************************************************************** 
+2019-03-16 00:18:33,447 INFO  [Log] Opening Browser 
+2019-03-16 00:18:36,111 INFO  [Log] Chrome browser started 
+2019-03-16 00:18:36,411 INFO  [Log] Navigating to URL 
+2019-03-16 00:18:44,243 INFO  [Log] Verify display itemproduct_image 
+2019-03-16 00:18:54,301 ERROR [Log] Not able display --- no such element: Unable to locate element: {"method":"xpath","selector":".//*[@id='product_1_1_0_0']/td[1]//img"}
+  (Session info: chrome=72.0.3626.121)
+  (Driver info: chromedriver=73.0.3683.20 (8e2b610813e167eee3619ac4ce6e42e3ec622017),platform=Mac OS X 10.14.2 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.14.0', revision: 'aacccce0', time: '2018-08-02T20:19:58.91Z'
+System info: host: 'MacBook-Pro-2.local', ip: 'fe80:0:0:0:143b:19b1:4f73:26fd%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.14.2', java.version: '1.8.0_181'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 73.0.3683.20 (8e2b610813e16..., userDataDir: /var/folders/24/4smgzljs2zj...}, cssSelectorsEnabled: true, databaseEnabled: false, goog:chromeOptions: {debuggerAddress: localhost:54957}, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: MAC, platformName: MAC, proxy: Proxy(), rotatable: false, setWindowRect: true, strictFileInteractability: false, takesHeapSnapshot: true, takesScreenshot: true, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unexpectedAlertBehaviour: ignore, unhandledPromptBehavior: ignore, version: 72.0.3626.121, webStorageEnabled: true}
+Session ID: 1a9cc5237cf1293409fb391b3fd63c71
+*** Element info: {Using=xpath, value=.//*[@id='product_1_1_0_0']/td[1]//img} 
+2019-03-16 00:18:54,372 INFO  [Log] Closing the browser 
+2019-03-16 00:18:54,611 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2019-03-16 00:18:54,611 INFO  [Log] X 
+2019-03-16 00:18:54,611 INFO  [Log] X 
+2019-03-16 00:18:54,611 INFO  [Log] X 
+2019-03-16 00:18:54,611 INFO  [Log] X 
+2019-03-16 00:19:19,331 INFO  [Log] **************************************************************************************** 
+2019-03-16 00:19:19,332 INFO  [Log] **************************************************************************************** 
+2019-03-16 00:19:19,332 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 Verify_01       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2019-03-16 00:19:19,332 INFO  [Log] **************************************************************************************** 
+2019-03-16 00:19:19,332 INFO  [Log] **************************************************************************************** 
+2019-03-16 00:19:19,334 INFO  [Log] Opening Browser 
+2019-03-16 00:19:21,074 INFO  [Log] Chrome browser started 
+2019-03-16 00:19:21,367 INFO  [Log] Navigating to URL 
+2019-03-16 00:19:28,148 INFO  [Log] Verify display itemproduct_image 
+2019-03-16 00:19:38,191 ERROR [Log] Not able display --- no such element: Unable to locate element: {"method":"xpath","selector":".//*[@id='product_1_1_0_0']/td[1]//img"}
+  (Session info: chrome=72.0.3626.121)
+  (Driver info: chromedriver=73.0.3683.20 (8e2b610813e167eee3619ac4ce6e42e3ec622017),platform=Mac OS X 10.14.2 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.14.0', revision: 'aacccce0', time: '2018-08-02T20:19:58.91Z'
+System info: host: 'MacBook-Pro-2.local', ip: 'fe80:0:0:0:143b:19b1:4f73:26fd%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.14.2', java.version: '1.8.0_181'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 73.0.3683.20 (8e2b610813e16..., userDataDir: /var/folders/24/4smgzljs2zj...}, cssSelectorsEnabled: true, databaseEnabled: false, goog:chromeOptions: {debuggerAddress: localhost:55160}, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: MAC, platformName: MAC, proxy: Proxy(), rotatable: false, setWindowRect: true, strictFileInteractability: false, takesHeapSnapshot: true, takesScreenshot: true, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unexpectedAlertBehaviour: ignore, unhandledPromptBehavior: ignore, version: 72.0.3626.121, webStorageEnabled: true}
+Session ID: 557c5bdb52a2ee57f4411250a97af8b8
+*** Element info: {Using=xpath, value=.//*[@id='product_1_1_0_0']/td[1]//img} 
+2019-03-16 00:19:38,254 INFO  [Log] Closing the browser 
+2019-03-16 00:19:38,480 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2019-03-16 00:19:38,481 INFO  [Log] X 
+2019-03-16 00:19:38,481 INFO  [Log] X 
+2019-03-16 00:19:38,481 INFO  [Log] X 
+2019-03-16 00:19:38,481 INFO  [Log] X 
+2019-03-16 00:21:11,424 INFO  [Log] **************************************************************************************** 
+2019-03-16 00:21:11,426 INFO  [Log] **************************************************************************************** 
+2019-03-16 00:21:11,426 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 Verify_01       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2019-03-16 00:21:11,426 INFO  [Log] **************************************************************************************** 
+2019-03-16 00:21:11,426 INFO  [Log] **************************************************************************************** 
+2019-03-16 00:21:11,429 INFO  [Log] Opening Browser 
+2019-03-16 00:21:13,781 INFO  [Log] Chrome browser started 
+2019-03-16 00:21:14,035 INFO  [Log] Navigating to URL 
+2019-03-16 00:21:20,249 INFO  [Log] Verify display itemproduct_image 
+2019-03-16 00:21:30,323 ERROR [Log] Not able display --- no such element: Unable to locate element: {"method":"xpath","selector":".//*[@id='product_1_1_0_0']/td[1]//img"}
+  (Session info: chrome=72.0.3626.121)
+  (Driver info: chromedriver=73.0.3683.20 (8e2b610813e167eee3619ac4ce6e42e3ec622017),platform=Mac OS X 10.14.2 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.14.0', revision: 'aacccce0', time: '2018-08-02T20:19:58.91Z'
+System info: host: 'MacBook-Pro-2.local', ip: 'fe80:0:0:0:143b:19b1:4f73:26fd%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.14.2', java.version: '1.8.0_181'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 73.0.3683.20 (8e2b610813e16..., userDataDir: /var/folders/24/4smgzljs2zj...}, cssSelectorsEnabled: true, databaseEnabled: false, goog:chromeOptions: {debuggerAddress: localhost:55675}, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: MAC, platformName: MAC, proxy: Proxy(), rotatable: false, setWindowRect: true, strictFileInteractability: false, takesHeapSnapshot: true, takesScreenshot: true, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unexpectedAlertBehaviour: ignore, unhandledPromptBehavior: ignore, version: 72.0.3626.121, webStorageEnabled: true}
+Session ID: 8ebe1479309ceaa8b1e7af4ce500b63b
+*** Element info: {Using=xpath, value=.//*[@id='product_1_1_0_0']/td[1]//img} 
+2019-03-16 00:21:30,389 INFO  [Log] Closing the browser 
+2019-03-16 00:21:30,627 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2019-03-16 00:21:30,627 INFO  [Log] X 
+2019-03-16 00:21:30,627 INFO  [Log] X 
+2019-03-16 00:21:30,627 INFO  [Log] X 
+2019-03-16 00:21:30,627 INFO  [Log] X 
+2019-03-16 00:22:40,216 INFO  [Log] **************************************************************************************** 
+2019-03-16 00:22:40,218 INFO  [Log] **************************************************************************************** 
+2019-03-16 00:22:40,218 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 Verify_01       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2019-03-16 00:22:40,218 INFO  [Log] **************************************************************************************** 
+2019-03-16 00:22:40,218 INFO  [Log] **************************************************************************************** 
+2019-03-16 00:22:40,221 INFO  [Log] Opening Browser 
+2019-03-16 00:22:42,630 INFO  [Log] Chrome browser started 
+2019-03-16 00:22:42,856 INFO  [Log] Navigating to URL 
+2019-03-16 00:22:50,325 INFO  [Log] Verify display itemproduct_image 
+2019-03-16 00:23:00,409 ERROR [Log] Not able display --- no such element: Unable to locate element: {"method":"xpath","selector":".//*[@id='product_1_1_0_0']/td[1]//img"}
+  (Session info: chrome=72.0.3626.121)
+  (Driver info: chromedriver=73.0.3683.20 (8e2b610813e167eee3619ac4ce6e42e3ec622017),platform=Mac OS X 10.14.2 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.14.0', revision: 'aacccce0', time: '2018-08-02T20:19:58.91Z'
+System info: host: 'MacBook-Pro-2.local', ip: 'fe80:0:0:0:143b:19b1:4f73:26fd%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.14.2', java.version: '1.8.0_181'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 73.0.3683.20 (8e2b610813e16..., userDataDir: /var/folders/24/4smgzljs2zj...}, cssSelectorsEnabled: true, databaseEnabled: false, goog:chromeOptions: {debuggerAddress: localhost:56071}, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: MAC, platformName: MAC, proxy: Proxy(), rotatable: false, setWindowRect: true, strictFileInteractability: false, takesHeapSnapshot: true, takesScreenshot: true, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unexpectedAlertBehaviour: ignore, unhandledPromptBehavior: ignore, version: 72.0.3626.121, webStorageEnabled: true}
+Session ID: c31d2ae6d998f706f6cc7d63f3977093
+*** Element info: {Using=xpath, value=.//*[@id='product_1_1_0_0']/td[1]//img} 
+2019-03-16 00:23:00,471 INFO  [Log] Closing the browser 
+2019-03-16 00:23:00,751 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2019-03-16 00:23:00,751 INFO  [Log] X 
+2019-03-16 00:23:00,751 INFO  [Log] X 
+2019-03-16 00:23:00,752 INFO  [Log] X 
+2019-03-16 00:23:00,752 INFO  [Log] X 
+2019-03-16 14:31:53,809 INFO  [Log] **************************************************************************************** 
+2019-03-16 14:31:53,811 INFO  [Log] **************************************************************************************** 
+2019-03-16 14:31:53,811 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 Verify_01       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2019-03-16 14:31:53,811 INFO  [Log] **************************************************************************************** 
+2019-03-16 14:31:53,811 INFO  [Log] **************************************************************************************** 
+2019-03-16 14:31:53,815 INFO  [Log] Opening Browser 
+2019-03-16 14:31:56,235 INFO  [Log] Chrome browser started 
+2019-03-16 14:31:56,451 INFO  [Log] Navigating to URL 
+2019-03-16 14:32:01,691 INFO  [Log] Verify display itemproduct_image 
+2019-03-16 14:32:07,953 ERROR [Log] Not able display --- null 
+2019-03-16 14:32:08,091 INFO  [Log] Closing the browser 
+2019-03-16 14:32:08,215 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2019-03-16 14:32:08,215 INFO  [Log] X 
+2019-03-16 14:32:08,215 INFO  [Log] X 
+2019-03-16 14:32:08,215 INFO  [Log] X 
+2019-03-16 14:32:08,215 INFO  [Log] X 
+2019-03-16 15:00:26,614 INFO  [Log] **************************************************************************************** 
+2019-03-16 15:00:26,616 INFO  [Log] **************************************************************************************** 
+2019-03-16 15:00:26,616 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 Verify_01       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2019-03-16 15:00:26,616 INFO  [Log] **************************************************************************************** 
+2019-03-16 15:00:26,616 INFO  [Log] **************************************************************************************** 
+2019-03-16 15:00:26,619 INFO  [Log] Opening Browser 
+2019-03-16 15:00:28,446 INFO  [Log] Chrome browser started 
+2019-03-16 15:00:28,647 INFO  [Log] Navigating to URL 
+2019-03-16 15:00:36,554 INFO  [Log] Click itemproduct_title 
+2019-03-16 15:00:39,561 INFO  [Log] Click itemadd_to_cart_btn 
+2019-03-16 15:00:39,759 INFO  [Log] Click itemproceed_checkout_btn1 
+2019-03-16 15:00:43,275 INFO  [Log] Verify display itemproduct_image 
+2019-03-16 15:00:43,368 INFO  [Log] Verify display itemSKU 
+2019-03-16 15:00:43,458 INFO  [Log] Verify display itemcolor 
+2019-03-16 15:00:43,544 INFO  [Log] Verify display itemsize 
+2019-03-16 15:00:43,630 INFO  [Log] Closing the browser 
+2019-03-16 15:00:43,808 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2019-03-16 15:00:43,808 INFO  [Log] X 
+2019-03-16 15:00:43,808 INFO  [Log] X 
+2019-03-16 15:00:43,808 INFO  [Log] X 
+2019-03-16 15:00:43,808 INFO  [Log] X 
+2019-03-16 15:02:56,519 INFO  [Log] **************************************************************************************** 
+2019-03-16 15:02:56,520 INFO  [Log] **************************************************************************************** 
+2019-03-16 15:02:56,520 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 Verify_01       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2019-03-16 15:02:56,520 INFO  [Log] **************************************************************************************** 
+2019-03-16 15:02:56,520 INFO  [Log] **************************************************************************************** 
+2019-03-16 15:02:56,523 INFO  [Log] Opening Browser 
+2019-03-16 15:02:58,308 INFO  [Log] Chrome browser started 
+2019-03-16 15:02:58,513 INFO  [Log] Navigating to URL 
+2019-03-16 15:03:06,852 INFO  [Log] Click itemproduct_title 
+2019-03-16 15:03:09,829 INFO  [Log] Click itemadd_to_cart_btn 
+2019-03-16 15:03:10,035 INFO  [Log] Click itemproceed_checkout_btn1 
+2019-03-16 15:03:14,111 INFO  [Log] Verify display itemproduct_image 
+2019-03-16 15:03:14,200 INFO  [Log] Verify display itemSKU 
+2019-03-16 15:03:14,291 INFO  [Log] Verify display itemcolor 
+2019-03-16 15:03:14,371 INFO  [Log] Verify display itemsize 
+2019-03-16 15:03:14,463 INFO  [Log] Verify display itemin_stock 
+2019-03-16 15:03:14,550 INFO  [Log] Verify display itemunit_price 
+2019-03-16 15:03:14,636 INFO  [Log] Verify display itemquantity 
+2019-03-16 15:03:14,719 INFO  [Log] Verify display itemtotal_price 
+2019-03-16 15:03:14,798 INFO  [Log] Verify display itemproceed_checkout_btn2 
+2019-03-16 15:03:14,874 INFO  [Log] Closing the browser 
+2019-03-16 15:03:15,103 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2019-03-16 15:03:15,103 INFO  [Log] X 
+2019-03-16 15:03:15,103 INFO  [Log] X 
+2019-03-16 15:03:15,103 INFO  [Log] X 
+2019-03-16 15:03:15,103 INFO  [Log] X 

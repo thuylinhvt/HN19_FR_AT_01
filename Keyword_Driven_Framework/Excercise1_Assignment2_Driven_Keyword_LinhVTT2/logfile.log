@@ -1,0 +1,410 @@
+2019-03-15 21:51:30,540 INFO  [Log] **************************************************************************************** 
+2019-03-15 21:51:30,541 INFO  [Log] **************************************************************************************** 
+2019-03-15 21:51:30,541 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 Verify_01       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2019-03-15 21:51:30,541 INFO  [Log] **************************************************************************************** 
+2019-03-15 21:51:30,541 INFO  [Log] **************************************************************************************** 
+2019-03-15 21:51:30,544 INFO  [Log] Opening Browser 
+2019-03-15 21:51:32,863 INFO  [Log] Chrome browser started 
+2019-03-15 21:51:33,074 INFO  [Log] Navigating to URL 
+2019-03-15 21:51:41,202 INFO  [Log] Verify display itemproduct_name 
+2019-03-15 21:51:41,315 INFO  [Log] Verify display itemproduct_price 
+2019-03-15 21:51:41,405 INFO  [Log] Verify display itemproduct_quantity 
+2019-03-15 21:51:41,507 INFO  [Log] Verify display itemproduct_size 
+2019-03-15 21:51:41,597 INFO  [Log] Closing the browser 
+2019-03-15 21:51:41,790 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2019-03-15 21:51:41,810 INFO  [Log] X 
+2019-03-15 21:51:41,810 INFO  [Log] X 
+2019-03-15 21:51:41,810 INFO  [Log] X 
+2019-03-15 21:51:41,811 INFO  [Log] X 
+2019-03-15 21:51:41,811 INFO  [Log] **************************************************************************************** 
+2019-03-15 21:51:41,811 INFO  [Log] **************************************************************************************** 
+2019-03-15 21:51:41,811 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 Verify_02       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2019-03-15 21:51:41,811 INFO  [Log] **************************************************************************************** 
+2019-03-15 21:51:41,811 INFO  [Log] **************************************************************************************** 
+2019-03-15 21:51:41,812 INFO  [Log] Navigating to URL 
+2019-03-15 21:51:41,831 INFO  [Log] Not able to navigate --- Session ID is null. Using WebDriver after calling quit()?
+Build info: version: '3.14.0', revision: 'aacccce0', time: '2018-08-02T20:19:58.91Z'
+System info: host: 'MacBook-Pro-2.local', ip: 'fe80:0:0:0:143b:19b1:4f73:26fd%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.14.2', java.version: '1.8.0_181'
+Driver info: driver.version: RemoteWebDriver 
+2019-03-15 21:51:41,895 INFO  [Log] Closing the browser 
+2019-03-15 21:51:41,963 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2019-03-15 21:51:41,963 INFO  [Log] X 
+2019-03-15 21:51:41,963 INFO  [Log] X 
+2019-03-15 21:51:41,963 INFO  [Log] X 
+2019-03-15 21:51:41,963 INFO  [Log] X 
+2019-03-15 21:54:06,466 INFO  [Log] **************************************************************************************** 
+2019-03-15 21:54:06,467 INFO  [Log] **************************************************************************************** 
+2019-03-15 21:54:06,467 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 Verify_01       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2019-03-15 21:54:06,467 INFO  [Log] **************************************************************************************** 
+2019-03-15 21:54:06,467 INFO  [Log] **************************************************************************************** 
+2019-03-15 21:54:06,470 INFO  [Log] Opening Browser 
+2019-03-15 21:54:08,221 INFO  [Log] Chrome browser started 
+2019-03-15 21:54:08,440 INFO  [Log] Navigating to URL 
+2019-03-15 21:54:15,494 INFO  [Log] Verify display itemproduct_name 
+2019-03-15 21:54:15,608 INFO  [Log] Verify display itemproduct_price 
+2019-03-15 21:54:15,722 INFO  [Log] Verify display itemproduct_quantity 
+2019-03-15 21:54:15,811 INFO  [Log] Verify display itemproduct_size 
+2019-03-15 21:54:15,902 INFO  [Log] Closing the browser 
+2019-03-15 21:54:16,087 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2019-03-15 21:54:16,087 INFO  [Log] X 
+2019-03-15 21:54:16,087 INFO  [Log] X 
+2019-03-15 21:54:16,087 INFO  [Log] X 
+2019-03-15 21:54:16,087 INFO  [Log] X 
+2019-03-15 21:54:16,087 INFO  [Log] **************************************************************************************** 
+2019-03-15 21:54:16,087 INFO  [Log] **************************************************************************************** 
+2019-03-15 21:54:16,087 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 Verify_02       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2019-03-15 21:54:16,087 INFO  [Log] **************************************************************************************** 
+2019-03-15 21:54:16,087 INFO  [Log] **************************************************************************************** 
+2019-03-15 21:54:16,088 INFO  [Log] Closing the browser 
+2019-03-15 21:54:16,154 INFO  [Log] Navigating to URL 
+2019-03-15 21:54:16,164 INFO  [Log] Not able to navigate --- Session ID is null. Using WebDriver after calling quit()?
+Build info: version: '3.14.0', revision: 'aacccce0', time: '2018-08-02T20:19:58.91Z'
+System info: host: 'MacBook-Pro-2.local', ip: 'fe80:0:0:0:143b:19b1:4f73:26fd%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.14.2', java.version: '1.8.0_181'
+Driver info: driver.version: RemoteWebDriver 
+2019-03-15 21:54:16,225 INFO  [Log] Closing the browser 
+2019-03-15 21:54:16,280 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2019-03-15 21:54:16,280 INFO  [Log] X 
+2019-03-15 21:54:16,280 INFO  [Log] X 
+2019-03-15 21:54:16,280 INFO  [Log] X 
+2019-03-15 21:54:16,280 INFO  [Log] X 
+2019-03-15 21:57:11,377 INFO  [Log] **************************************************************************************** 
+2019-03-15 21:57:11,378 INFO  [Log] **************************************************************************************** 
+2019-03-15 21:57:11,379 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 Verify_01       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2019-03-15 21:57:11,379 INFO  [Log] **************************************************************************************** 
+2019-03-15 21:57:11,379 INFO  [Log] **************************************************************************************** 
+2019-03-15 21:57:11,381 INFO  [Log] Opening Browser 
+2019-03-15 21:57:13,550 INFO  [Log] Chrome browser started 
+2019-03-15 21:57:13,770 INFO  [Log] Navigating to URL 
+2019-03-15 21:57:24,594 INFO  [Log] Verify display itemproduct_name 
+2019-03-15 21:57:24,700 INFO  [Log] Verify display itemproduct_price 
+2019-03-15 21:57:24,810 INFO  [Log] Verify display itemproduct_quantity 
+2019-03-15 21:57:24,897 INFO  [Log] Verify display itemproduct_size 
+2019-03-15 21:57:24,985 INFO  [Log] Verify display itemproduct_color 
+2019-03-15 21:57:25,081 INFO  [Log] Verify display itemaddToCart_btn 
+2019-03-15 21:57:25,160 INFO  [Log] Verify display itemcomposition_txt 
+2019-03-15 21:57:25,244 INFO  [Log] Verify display itemstyles_txt 
+2019-03-15 21:57:25,316 INFO  [Log] Verify display itemproperties_txt 
+2019-03-15 21:57:25,394 INFO  [Log] Verify display itemmoreInfor_txt 
+2019-03-15 21:57:25,515 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2019-03-15 21:57:25,515 INFO  [Log] X 
+2019-03-15 21:57:25,515 INFO  [Log] X 
+2019-03-15 21:57:25,515 INFO  [Log] X 
+2019-03-15 21:57:25,515 INFO  [Log] X 
+2019-03-15 21:57:25,515 INFO  [Log] **************************************************************************************** 
+2019-03-15 21:57:25,515 INFO  [Log] **************************************************************************************** 
+2019-03-15 21:57:25,515 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 Verify_02       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2019-03-15 21:57:25,515 INFO  [Log] **************************************************************************************** 
+2019-03-15 21:57:25,515 INFO  [Log] **************************************************************************************** 
+2019-03-15 21:57:25,517 INFO  [Log] Closing the browser 
+2019-03-15 21:57:25,693 INFO  [Log] Navigating to URL 
+2019-03-15 21:57:25,707 INFO  [Log] Not able to navigate --- Session ID is null. Using WebDriver after calling quit()?
+Build info: version: '3.14.0', revision: 'aacccce0', time: '2018-08-02T20:19:58.91Z'
+System info: host: 'MacBook-Pro-2.local', ip: 'fe80:0:0:0:143b:19b1:4f73:26fd%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.14.2', java.version: '1.8.0_181'
+Driver info: driver.version: RemoteWebDriver 
+2019-03-15 21:57:25,762 INFO  [Log] Closing the browser 
+2019-03-15 21:57:25,802 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2019-03-15 21:57:25,802 INFO  [Log] X 
+2019-03-15 21:57:25,802 INFO  [Log] X 
+2019-03-15 21:57:25,802 INFO  [Log] X 
+2019-03-15 21:57:25,802 INFO  [Log] X 
+2019-03-15 21:59:00,156 INFO  [Log] **************************************************************************************** 
+2019-03-15 21:59:00,157 INFO  [Log] **************************************************************************************** 
+2019-03-15 21:59:00,157 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 Verify_01       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2019-03-15 21:59:00,157 INFO  [Log] **************************************************************************************** 
+2019-03-15 21:59:00,157 INFO  [Log] **************************************************************************************** 
+2019-03-15 21:59:00,160 INFO  [Log] Opening Browser 
+2019-03-15 21:59:02,423 INFO  [Log] Chrome browser started 
+2019-03-15 21:59:02,646 INFO  [Log] Navigating to URL 
+2019-03-15 21:59:12,835 INFO  [Log] Verify display itemproduct_name 
+2019-03-15 21:59:12,963 INFO  [Log] Verify display itemproduct_price 
+2019-03-15 21:59:13,081 INFO  [Log] Verify display itemproduct_quantity 
+2019-03-15 21:59:13,174 INFO  [Log] Verify display itemproduct_size 
+2019-03-15 21:59:13,270 INFO  [Log] Verify display itemproduct_color 
+2019-03-15 21:59:13,372 INFO  [Log] Verify display itemaddToCart_btn 
+2019-03-15 21:59:13,452 INFO  [Log] Verify display itemcomposition_txt 
+2019-03-15 21:59:13,539 INFO  [Log] Verify display itemstyles_txt 
+2019-03-15 21:59:13,613 INFO  [Log] Verify display itemproperties_txt 
+2019-03-15 21:59:13,695 INFO  [Log] Verify display itemmoreInfor_txt 
+2019-03-15 21:59:13,779 INFO  [Log] Closing the browser 
+2019-03-15 21:59:14,016 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2019-03-15 21:59:14,016 INFO  [Log] X 
+2019-03-15 21:59:14,016 INFO  [Log] X 
+2019-03-15 21:59:14,016 INFO  [Log] X 
+2019-03-15 21:59:14,016 INFO  [Log] X 
+2019-03-15 21:59:14,016 INFO  [Log] **************************************************************************************** 
+2019-03-15 21:59:14,016 INFO  [Log] **************************************************************************************** 
+2019-03-15 21:59:14,016 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 Verify_02       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2019-03-15 21:59:14,016 INFO  [Log] **************************************************************************************** 
+2019-03-15 21:59:14,016 INFO  [Log] **************************************************************************************** 
+2019-03-15 21:59:14,017 INFO  [Log] Navigating to URL 
+2019-03-15 21:59:14,035 INFO  [Log] Not able to navigate --- Session ID is null. Using WebDriver after calling quit()?
+Build info: version: '3.14.0', revision: 'aacccce0', time: '2018-08-02T20:19:58.91Z'
+System info: host: 'MacBook-Pro-2.local', ip: 'fe80:0:0:0:143b:19b1:4f73:26fd%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.14.2', java.version: '1.8.0_181'
+Driver info: driver.version: RemoteWebDriver 
+2019-03-15 21:59:14,087 INFO  [Log] Closing the browser 
+2019-03-15 21:59:14,131 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2019-03-15 21:59:14,131 INFO  [Log] X 
+2019-03-15 21:59:14,131 INFO  [Log] X 
+2019-03-15 21:59:14,131 INFO  [Log] X 
+2019-03-15 21:59:14,131 INFO  [Log] X 
+2019-03-15 22:00:17,870 INFO  [Log] **************************************************************************************** 
+2019-03-15 22:00:17,871 INFO  [Log] **************************************************************************************** 
+2019-03-15 22:00:17,872 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 Verify_01       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2019-03-15 22:00:17,872 INFO  [Log] **************************************************************************************** 
+2019-03-15 22:00:17,872 INFO  [Log] **************************************************************************************** 
+2019-03-15 22:00:17,874 INFO  [Log] Opening Browser 
+2019-03-15 22:00:20,121 INFO  [Log] Chrome browser started 
+2019-03-15 22:00:20,345 INFO  [Log] Navigating to URL 
+2019-03-15 22:00:28,009 INFO  [Log] Verify display itemproduct_name 
+2019-03-15 22:00:28,125 INFO  [Log] Verify display itemproduct_price 
+2019-03-15 22:00:28,232 INFO  [Log] Verify display itemproduct_quantity 
+2019-03-15 22:00:28,339 INFO  [Log] Verify display itemproduct_size 
+2019-03-15 22:00:28,423 INFO  [Log] Verify display itemproduct_color 
+2019-03-15 22:00:28,513 INFO  [Log] Verify display itemaddToCart_btn 
+2019-03-15 22:00:28,599 INFO  [Log] Verify display itemcomposition_txt 
+2019-03-15 22:00:28,687 INFO  [Log] Verify display itemstyles_txt 
+2019-03-15 22:00:28,767 INFO  [Log] Verify display itemproperties_txt 
+2019-03-15 22:00:28,847 INFO  [Log] Verify display itemmoreInfor_txt 
+2019-03-15 22:00:28,928 INFO  [Log] Closing the browser 
+2019-03-15 22:00:29,141 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2019-03-15 22:00:29,141 INFO  [Log] X 
+2019-03-15 22:00:29,141 INFO  [Log] X 
+2019-03-15 22:00:29,142 INFO  [Log] X 
+2019-03-15 22:00:29,142 INFO  [Log] X 
+2019-03-15 22:00:29,142 INFO  [Log] **************************************************************************************** 
+2019-03-15 22:00:29,142 INFO  [Log] **************************************************************************************** 
+2019-03-15 22:00:29,142 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 Verify_02       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2019-03-15 22:00:29,142 INFO  [Log] **************************************************************************************** 
+2019-03-15 22:00:29,142 INFO  [Log] **************************************************************************************** 
+2019-03-15 22:00:29,143 INFO  [Log] Opening Browser 
+2019-03-15 22:00:29,162 INFO  [Log] Not able to open the Browser --- Session ID is null. Using WebDriver after calling quit()?
+Build info: version: '3.14.0', revision: 'aacccce0', time: '2018-08-02T20:19:58.91Z'
+System info: host: 'MacBook-Pro-2.local', ip: 'fe80:0:0:0:143b:19b1:4f73:26fd%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.14.2', java.version: '1.8.0_181'
+Driver info: driver.version: RemoteWebDriver 
+2019-03-15 22:00:29,215 INFO  [Log] Closing the browser 
+2019-03-15 22:00:29,258 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2019-03-15 22:00:29,258 INFO  [Log] X 
+2019-03-15 22:00:29,258 INFO  [Log] X 
+2019-03-15 22:00:29,259 INFO  [Log] X 
+2019-03-15 22:00:29,259 INFO  [Log] X 
+2019-03-15 22:02:01,147 INFO  [Log] **************************************************************************************** 
+2019-03-15 22:02:01,148 INFO  [Log] **************************************************************************************** 
+2019-03-15 22:02:01,148 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 Verify_01       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2019-03-15 22:02:01,148 INFO  [Log] **************************************************************************************** 
+2019-03-15 22:02:01,148 INFO  [Log] **************************************************************************************** 
+2019-03-15 22:02:01,151 INFO  [Log] Opening Browser 
+2019-03-15 22:02:03,433 INFO  [Log] Chrome browser started 
+2019-03-15 22:02:03,656 INFO  [Log] Navigating to URL 
+2019-03-15 22:02:12,566 INFO  [Log] Verify display itemproduct_name 
+2019-03-15 22:02:12,680 INFO  [Log] Verify display itemproduct_price 
+2019-03-15 22:02:12,783 INFO  [Log] Verify display itemproduct_quantity 
+2019-03-15 22:02:12,895 INFO  [Log] Verify display itemproduct_size 
+2019-03-15 22:02:13,010 INFO  [Log] Verify display itemproduct_color 
+2019-03-15 22:02:13,101 INFO  [Log] Verify display itemaddToCart_btn 
+2019-03-15 22:02:13,197 INFO  [Log] Verify display itemcomposition_txt 
+2019-03-15 22:02:13,283 INFO  [Log] Verify display itemstyles_txt 
+2019-03-15 22:02:13,364 INFO  [Log] Verify display itemproperties_txt 
+2019-03-15 22:02:13,452 INFO  [Log] Verify display itemmoreInfor_txt 
+2019-03-15 22:02:13,532 INFO  [Log] Closing the browser 
+2019-03-15 22:02:13,781 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2019-03-15 22:02:13,781 INFO  [Log] X 
+2019-03-15 22:02:13,781 INFO  [Log] X 
+2019-03-15 22:02:13,781 INFO  [Log] X 
+2019-03-15 22:02:13,781 INFO  [Log] X 
+2019-03-15 22:02:13,781 INFO  [Log] **************************************************************************************** 
+2019-03-15 22:02:13,781 INFO  [Log] **************************************************************************************** 
+2019-03-15 22:02:13,782 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 Verify_02       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2019-03-15 22:02:13,782 INFO  [Log] **************************************************************************************** 
+2019-03-15 22:02:13,782 INFO  [Log] **************************************************************************************** 
+2019-03-15 22:02:13,782 INFO  [Log] Opening Browser 
+2019-03-15 22:02:13,803 INFO  [Log] Not able to open the Browser --- Session ID is null. Using WebDriver after calling quit()?
+Build info: version: '3.14.0', revision: 'aacccce0', time: '2018-08-02T20:19:58.91Z'
+System info: host: 'MacBook-Pro-2.local', ip: 'fe80:0:0:0:143b:19b1:4f73:26fd%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.14.2', java.version: '1.8.0_181'
+Driver info: driver.version: RemoteWebDriver 
+2019-03-15 22:02:13,853 INFO  [Log] Closing the browser 
+2019-03-15 22:02:13,896 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2019-03-15 22:02:13,896 INFO  [Log] X 
+2019-03-15 22:02:13,896 INFO  [Log] X 
+2019-03-15 22:02:13,896 INFO  [Log] X 
+2019-03-15 22:02:13,896 INFO  [Log] X 
+2019-03-15 22:03:04,013 INFO  [Log] **************************************************************************************** 
+2019-03-15 22:03:04,013 INFO  [Log] **************************************************************************************** 
+2019-03-15 22:03:04,013 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 Verify_01       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2019-03-15 22:03:04,013 INFO  [Log] **************************************************************************************** 
+2019-03-15 22:03:04,014 INFO  [Log] **************************************************************************************** 
+2019-03-15 22:03:04,016 INFO  [Log] Opening Browser 
+2019-03-15 22:03:05,682 INFO  [Log] Chrome browser started 
+2019-03-15 22:03:05,900 INFO  [Log] Navigating to URL 
+2019-03-15 22:03:16,417 INFO  [Log] Verify display itemproduct_name 
+2019-03-15 22:03:16,528 INFO  [Log] Verify display itemproduct_price 
+2019-03-15 22:03:16,635 INFO  [Log] Verify display itemproduct_quantity 
+2019-03-15 22:03:16,731 INFO  [Log] Verify display itemproduct_size 
+2019-03-15 22:03:16,821 INFO  [Log] Verify display itemproduct_color 
+2019-03-15 22:03:16,916 INFO  [Log] Verify display itemaddToCart_btn 
+2019-03-15 22:03:17,002 INFO  [Log] Verify display itemcomposition_txt 
+2019-03-15 22:03:17,093 INFO  [Log] Verify display itemstyles_txt 
+2019-03-15 22:03:17,165 INFO  [Log] Verify display itemproperties_txt 
+2019-03-15 22:03:17,251 INFO  [Log] Verify display itemmoreInfor_txt 
+2019-03-15 22:03:17,339 INFO  [Log] Closing the browser 
+2019-03-15 22:03:17,576 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2019-03-15 22:03:17,576 INFO  [Log] X 
+2019-03-15 22:03:17,576 INFO  [Log] X 
+2019-03-15 22:03:17,576 INFO  [Log] X 
+2019-03-15 22:03:17,576 INFO  [Log] X 
+2019-03-15 22:03:17,576 INFO  [Log] **************************************************************************************** 
+2019-03-15 22:03:17,576 INFO  [Log] **************************************************************************************** 
+2019-03-15 22:03:17,576 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 Verify_02       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2019-03-15 22:03:17,576 INFO  [Log] **************************************************************************************** 
+2019-03-15 22:03:17,576 INFO  [Log] **************************************************************************************** 
+2019-03-15 22:03:17,577 INFO  [Log] Opening Browser 
+2019-03-15 22:03:17,587 INFO  [Log] Not able to open the Browser --- Session ID is null. Using WebDriver after calling quit()?
+Build info: version: '3.14.0', revision: 'aacccce0', time: '2018-08-02T20:19:58.91Z'
+System info: host: 'MacBook-Pro-2.local', ip: 'fe80:0:0:0:143b:19b1:4f73:26fd%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.14.2', java.version: '1.8.0_181'
+Driver info: driver.version: RemoteWebDriver 
+2019-03-15 22:03:17,643 INFO  [Log] Closing the browser 
+2019-03-15 22:03:17,693 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2019-03-15 22:03:17,693 INFO  [Log] X 
+2019-03-15 22:03:17,693 INFO  [Log] X 
+2019-03-15 22:03:17,693 INFO  [Log] X 
+2019-03-15 22:03:17,693 INFO  [Log] X 
+2019-03-15 22:06:00,779 INFO  [Log] **************************************************************************************** 
+2019-03-15 22:06:00,779 INFO  [Log] **************************************************************************************** 
+2019-03-15 22:06:00,780 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 Verify_01       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2019-03-15 22:06:00,780 INFO  [Log] **************************************************************************************** 
+2019-03-15 22:06:00,780 INFO  [Log] **************************************************************************************** 
+2019-03-15 22:06:00,782 INFO  [Log] Opening Browser 
+2019-03-15 22:06:02,443 INFO  [Log] Chrome browser started 
+2019-03-15 22:06:02,684 INFO  [Log] Navigating to URL 
+2019-03-15 22:06:22,267 INFO  [Log] Verify display itemproduct_name 
+2019-03-15 22:06:22,363 INFO  [Log] Verify display itemproduct_price 
+2019-03-15 22:06:22,457 INFO  [Log] Verify display itemproduct_quantity 
+2019-03-15 22:06:22,562 INFO  [Log] Verify display itemproduct_size 
+2019-03-15 22:06:22,657 INFO  [Log] Verify display itemproduct_color 
+2019-03-15 22:06:22,739 INFO  [Log] Verify display itemaddToCart_btn 
+2019-03-15 22:06:22,830 INFO  [Log] Verify display itemcomposition_txt 
+2019-03-15 22:06:22,928 INFO  [Log] Verify display itemstyles_txt 
+2019-03-15 22:06:23,005 INFO  [Log] Verify display itemproperties_txt 
+2019-03-15 22:06:23,091 INFO  [Log] Verify display itemmoreInfor_txt 
+2019-03-15 22:06:23,225 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2019-03-15 22:06:23,225 INFO  [Log] X 
+2019-03-15 22:06:23,225 INFO  [Log] X 
+2019-03-15 22:06:23,225 INFO  [Log] X 
+2019-03-15 22:06:23,225 INFO  [Log] X 
+2019-03-15 22:06:23,225 INFO  [Log] **************************************************************************************** 
+2019-03-15 22:06:23,225 INFO  [Log] **************************************************************************************** 
+2019-03-15 22:06:23,225 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 Verify_02       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2019-03-15 22:06:23,225 INFO  [Log] **************************************************************************************** 
+2019-03-15 22:06:23,225 INFO  [Log] **************************************************************************************** 
+2019-03-15 22:06:23,226 INFO  [Log] Navigating to URL 
+2019-03-15 22:06:30,416 INFO  [Log] Verify display itemproduct_name 
+2019-03-15 22:06:30,498 INFO  [Log] Verify display itemproduct_price 
+2019-03-15 22:06:30,566 INFO  [Log] Verify display itemproduct_quantity 
+2019-03-15 22:06:30,633 INFO  [Log] Verify display itemproduct_size 
+2019-03-15 22:06:30,722 INFO  [Log] Verify display itemproduct_color 
+2019-03-15 22:06:40,805 ERROR [Log] Not able display --- no such element: Unable to locate element: {"method":"xpath","selector":".//*[@id='color_8']"}
+  (Session info: chrome=72.0.3626.121)
+  (Driver info: chromedriver=73.0.3683.20 (8e2b610813e167eee3619ac4ce6e42e3ec622017),platform=Mac OS X 10.14.2 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.14.0', revision: 'aacccce0', time: '2018-08-02T20:19:58.91Z'
+System info: host: 'MacBook-Pro-2.local', ip: 'fe80:0:0:0:143b:19b1:4f73:26fd%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.14.2', java.version: '1.8.0_181'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 73.0.3683.20 (8e2b610813e16..., userDataDir: /var/folders/24/4smgzljs2zj...}, cssSelectorsEnabled: true, databaseEnabled: false, goog:chromeOptions: {debuggerAddress: localhost:54822}, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: MAC, platformName: MAC, proxy: Proxy(), rotatable: false, setWindowRect: true, strictFileInteractability: false, takesHeapSnapshot: true, takesScreenshot: true, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unexpectedAlertBehaviour: ignore, unhandledPromptBehavior: ignore, version: 72.0.3626.121, webStorageEnabled: true}
+Session ID: 68b0f04726309e359c9c65d5a75c8571
+*** Element info: {Using=xpath, value=.//*[@id='color_8']} 
+2019-03-15 22:06:40,862 INFO  [Log] Closing the browser 
+2019-03-15 22:06:41,021 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2019-03-15 22:06:41,021 INFO  [Log] X 
+2019-03-15 22:06:41,021 INFO  [Log] X 
+2019-03-15 22:06:41,021 INFO  [Log] X 
+2019-03-15 22:06:41,022 INFO  [Log] X 
+2019-03-15 22:08:49,950 INFO  [Log] **************************************************************************************** 
+2019-03-15 22:08:49,951 INFO  [Log] **************************************************************************************** 
+2019-03-15 22:08:49,951 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 Verify_01       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2019-03-15 22:08:49,951 INFO  [Log] **************************************************************************************** 
+2019-03-15 22:08:49,951 INFO  [Log] **************************************************************************************** 
+2019-03-15 22:08:49,953 INFO  [Log] Opening Browser 
+2019-03-15 22:08:51,652 INFO  [Log] Chrome browser started 
+2019-03-15 22:08:51,880 INFO  [Log] Navigating to URL 
+2019-03-15 22:09:00,200 INFO  [Log] Verify display itemproduct_name 
+2019-03-15 22:09:00,307 INFO  [Log] Verify display itemproduct_price 
+2019-03-15 22:09:00,401 INFO  [Log] Verify display itemproduct_quantity 
+2019-03-15 22:09:00,491 INFO  [Log] Verify display itemproduct_size 
+2019-03-15 22:09:00,593 INFO  [Log] Verify display itemproduct_color 
+2019-03-15 22:09:00,678 INFO  [Log] Verify display itemaddToCart_btn 
+2019-03-15 22:09:00,772 INFO  [Log] Verify display itemcomposition_txt 
+2019-03-15 22:09:00,869 INFO  [Log] Verify display itemstyles_txt 
+2019-03-15 22:09:00,969 INFO  [Log] Verify display itemproperties_txt 
+2019-03-15 22:09:01,059 INFO  [Log] Verify display itemmoreInfor_txt 
+2019-03-15 22:09:01,209 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2019-03-15 22:09:01,209 INFO  [Log] X 
+2019-03-15 22:09:01,209 INFO  [Log] X 
+2019-03-15 22:09:01,209 INFO  [Log] X 
+2019-03-15 22:09:01,209 INFO  [Log] X 
+2019-03-15 22:09:01,209 INFO  [Log] **************************************************************************************** 
+2019-03-15 22:09:01,209 INFO  [Log] **************************************************************************************** 
+2019-03-15 22:09:01,209 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 Verify_02       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2019-03-15 22:09:01,209 INFO  [Log] **************************************************************************************** 
+2019-03-15 22:09:01,209 INFO  [Log] **************************************************************************************** 
+2019-03-15 22:09:01,216 INFO  [Log] Navigating to URL 
+2019-03-15 22:09:04,587 INFO  [Log] Verify display itemproduct_name 
+2019-03-15 22:09:04,668 INFO  [Log] Verify display itemproduct_price 
+2019-03-15 22:09:04,746 INFO  [Log] Verify display itemproduct_quantity 
+2019-03-15 22:09:04,813 INFO  [Log] Verify display itemproduct_size 
+2019-03-15 22:09:04,884 INFO  [Log] Verify display itemproduct_color 
+2019-03-15 22:09:04,954 INFO  [Log] Verify display itemaddToCart_btn 
+2019-03-15 22:09:05,023 INFO  [Log] Verify display itemcomposition_txt 
+2019-03-15 22:09:05,088 INFO  [Log] Verify display itemstyles_txt 
+2019-03-15 22:09:05,149 INFO  [Log] Verify display itemproperties_txt 
+2019-03-15 22:09:05,217 INFO  [Log] Verify display itemmoreInfor_txt 
+2019-03-15 22:09:05,273 INFO  [Log] Closing the browser 
+2019-03-15 22:09:05,468 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2019-03-15 22:09:05,468 INFO  [Log] X 
+2019-03-15 22:09:05,468 INFO  [Log] X 
+2019-03-15 22:09:05,468 INFO  [Log] X 
+2019-03-15 22:09:05,469 INFO  [Log] X 
+2019-03-15 22:10:41,194 INFO  [Log] **************************************************************************************** 
+2019-03-15 22:10:41,195 INFO  [Log] **************************************************************************************** 
+2019-03-15 22:10:41,196 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 Verify_01       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2019-03-15 22:10:41,196 INFO  [Log] **************************************************************************************** 
+2019-03-15 22:10:41,196 INFO  [Log] **************************************************************************************** 
+2019-03-15 22:10:41,198 INFO  [Log] Opening Browser 
+2019-03-15 22:10:43,600 INFO  [Log] Chrome browser started 
+2019-03-15 22:10:43,892 INFO  [Log] Navigating to URL 
+2019-03-15 22:11:00,643 INFO  [Log] Verify display itemproduct_name 
+2019-03-15 22:11:00,759 INFO  [Log] Verify display itemproduct_price 
+2019-03-15 22:11:00,853 INFO  [Log] Verify display itemproduct_quantity 
+2019-03-15 22:11:00,946 INFO  [Log] Verify display itemproduct_size 
+2019-03-15 22:11:01,037 INFO  [Log] Verify display itemproduct_color 
+2019-03-15 22:11:01,130 INFO  [Log] Verify display itemaddToCart_btn 
+2019-03-15 22:11:01,218 INFO  [Log] Verify display itemcomposition_txt 
+2019-03-15 22:11:01,310 INFO  [Log] Verify display itemstyles_txt 
+2019-03-15 22:11:01,389 INFO  [Log] Verify display itemproperties_txt 
+2019-03-15 22:11:01,473 INFO  [Log] Verify display itemmoreInfor_txt 
+2019-03-15 22:11:01,606 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2019-03-15 22:11:01,606 INFO  [Log] X 
+2019-03-15 22:11:01,606 INFO  [Log] X 
+2019-03-15 22:11:01,606 INFO  [Log] X 
+2019-03-15 22:11:01,606 INFO  [Log] X 
+2019-03-15 22:11:01,606 INFO  [Log] **************************************************************************************** 
+2019-03-15 22:11:01,606 INFO  [Log] **************************************************************************************** 
+2019-03-15 22:11:01,606 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 Verify_02       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2019-03-15 22:11:01,606 INFO  [Log] **************************************************************************************** 
+2019-03-15 22:11:01,606 INFO  [Log] **************************************************************************************** 
+2019-03-15 22:11:01,607 INFO  [Log] Navigating to URL 
+2019-03-15 22:11:06,438 INFO  [Log] Verify display itemproduct_name 
+2019-03-15 22:11:06,512 INFO  [Log] Verify display itemproduct_price 
+2019-03-15 22:11:06,585 INFO  [Log] Verify display itemproduct_quantity 
+2019-03-15 22:11:06,661 INFO  [Log] Verify display itemproduct_size 
+2019-03-15 22:11:06,728 INFO  [Log] Verify display itemproduct_color 
+2019-03-15 22:11:06,800 INFO  [Log] Verify display itemaddToCart_btn 
+2019-03-15 22:11:06,869 INFO  [Log] Verify display itemcomposition_txt 
+2019-03-15 22:11:06,939 INFO  [Log] Verify display itemstyles_txt 
+2019-03-15 22:11:07,007 INFO  [Log] Verify display itemproperties_txt 
+2019-03-15 22:11:07,079 INFO  [Log] Verify display itemmoreInfor_txt 
+2019-03-15 22:11:07,145 INFO  [Log] Closing the browser 
+2019-03-15 22:11:07,380 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2019-03-15 22:11:07,380 INFO  [Log] X 
+2019-03-15 22:11:07,380 INFO  [Log] X 
+2019-03-15 22:11:07,380 INFO  [Log] X 
+2019-03-15 22:11:07,380 INFO  [Log] X 

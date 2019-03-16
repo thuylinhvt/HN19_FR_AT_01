@@ -1,0 +1,22 @@
+# Home Page Objects
+page_title = ./html/head/title
+page_logo = .//*[@id='header_logo']/a/img
+search-input = .//*[@id='search_query_top']
+search_button = .//*[@id="searchbox"]/button
+key_input = .//*[@id='search_query_top']
+button = .//*[@id='searchbox']/button
+
+# Product Page Object
+first_product_title = .//*[@id="center_column"]/ul/li/div/div[2]/h5/a
+first_product_price = .//*[@id="center_column"]/ul/li/div/div[2]/div[1]/span
+
+#Product DetailPage Object
+quantity_input = .//*[@id='quantity_wanted']
+cart_button = .//*[@id="add_to_cart"]/button
+proceed_to_checkout_button = .//*[@title='Proceed to checkout']
+
+#Cart Page Object
+product_name = .//*[@id='product_1_1_0_0']/td[2]/p/a
+unit_price = .//*[@id='product_price_1_1_0']/span
+product_quantity = .//*[@id="product_1_1_0_0"]/td[5]/input[2]
+total_price = .//*[@id='total_price']

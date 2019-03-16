@@ -1,0 +1,17 @@
+#Home page Objects
+product_title = .//*[@id='homefeatured']/li[1]//div[2]/h5/a
+
+#Product detail page Objects
+add_to_cart_btn = .//*[@id='add_to_cart']/button
+proceed_checkout_btn1 = .//*[@id='layer_cart']/div[1]/div[2]/div[4]/a
+
+#Cart page Objects
+product_image = .//*[@id='product_1_1_0_0']/td[1]//img
+SKU = .//*[@id='product_1_1_0_0']/td[2]/small[1]
+color = .//*[@id='product_1_1_0_0']/td[2]/small[2]/a
+size = .//*[@id="product_1_1_0_0"]/td[2]/small[2]/a
+in_stock = .//*[@id='product_1_1_0_0']/td[3]/span
+unit_price = .//*[@id='product_price_1_1_0']/span
+quantity = .//*[@id='product_1_1_0_0']/td[5]/input[2]
+total_price = //*[@id='total_price']
+proceed_checkout_btn2 = .//*[@id='center_column']/p[2]/a[1]
