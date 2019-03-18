@@ -1,0 +1,29 @@
+# Login Page Objects
+email_input=id>email
+password_input=id>passwd
+signIn_btn=id>SubmitLogin
+
+# My Account Page Object
+order_history_and_detail_btn=xpath>//*[@title= 'Orders']
+my_credit_slips_btn=xpath>//*[@title= 'Credit slips']
+my_address_btn=xpath>//*[@title= 'Addresses']
+my_personal_btn=xpath>//*[@title= 'Information']
+my_wishlists_btn=xpath>//*[@title= 'My wishlists']
+
+#Identity Page Object
+social_title=xpath>//*[@id='center_column']//fieldset/div[1]
+first_name_input=id>firstname
+last_name_input=id>lastname
+email_address=id>email
+day_form=id>uniform-days
+month_form=id>uniform-months
+year_form=id>uniform-years
+date_of_birth=xpath>//*[@id='center_column']//fieldset/div[5]/label
+current_pw=xpath>//*[@id='center_column']//fieldset/div[6]/label
+new_pw=xpath>//*[@id='center_column']//fieldset/div[7]/label
+confirmation=xpath>//*[@id='center_column']//fieldset/div[8]/label
+save_btn=name>submitIdentity
+day=id>days
+month=id>months
+year=id>years
+current_password=id>old_passwd
