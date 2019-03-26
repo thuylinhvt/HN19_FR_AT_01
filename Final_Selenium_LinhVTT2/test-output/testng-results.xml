@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Parallel test suite" duration-ms="365767" started-at="2019-03-26T14:21:51Z" finished-at="2019-03-26T14:27:57Z">
+    <groups>
+    </groups>
+    <test name="MAC_Chrome_Test" duration-ms="176334" started-at="2019-03-26T14:21:51Z" finished-at="2019-03-26T14:24:48Z">
+      <class name="com.fpt.TestParallel">
+        <test-method status="PASS" signature="beforeClass(java.lang.String, java.lang.String)[pri:0, instance:com.fpt.TestParallel@53b32d7]" name="beforeClass" is-config="true" duration-ms="2836" started-at="2019-03-26T21:21:52Z" finished-at="2019-03-26T21:21:54Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[MAC]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method status="PASS" signature="test()[pri:0, instance:com.fpt.TestParallel@53b32d7]" name="test" duration-ms="173411" started-at="2019-03-26T21:21:54Z" finished-at="2019-03-26T21:24:48Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+        <test-method status="PASS" signature="afterClass()[pri:0, instance:com.fpt.TestParallel@53b32d7]" name="afterClass" is-config="true" duration-ms="56" started-at="2019-03-26T21:24:48Z" finished-at="2019-03-26T21:24:48Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+      </class> <!-- com.fpt.TestParallel -->
+    </test> <!-- MAC_Chrome_Test -->
+    <test name="MAC_Firefox_Test" duration-ms="184399" started-at="2019-03-26T14:24:53Z" finished-at="2019-03-26T14:27:57Z">
+      <class name="com.fpt.TestParallel">
+        <test-method status="PASS" signature="beforeClass(java.lang.String, java.lang.String)[pri:0, instance:com.fpt.TestParallel@73ad2d6]" name="beforeClass" is-config="true" duration-ms="3123" started-at="2019-03-26T21:24:53Z" finished-at="2019-03-26T21:24:56Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[MAC]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Firefox]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method status="PASS" signature="test()[pri:0, instance:com.fpt.TestParallel@73ad2d6]" name="test" duration-ms="180880" started-at="2019-03-26T21:24:56Z" finished-at="2019-03-26T21:27:57Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+        <test-method status="PASS" signature="afterClass()[pri:0, instance:com.fpt.TestParallel@73ad2d6]" name="afterClass" is-config="true" duration-ms="394" started-at="2019-03-26T21:27:57Z" finished-at="2019-03-26T21:27:57Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+      </class> <!-- com.fpt.TestParallel -->
+    </test> <!-- MAC_Firefox_Test -->
+  </suite> <!-- Parallel test suite -->
+</testng-results>

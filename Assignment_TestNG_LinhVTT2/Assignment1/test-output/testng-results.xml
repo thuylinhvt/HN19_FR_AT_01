@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="39" started-at="2019-03-19T02:14:54Z" finished-at="2019-03-19T02:14:55Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="39" started-at="2019-03-19T02:14:54Z" finished-at="2019-03-19T02:14:55Z">
+      <class name="fa.edu.excercise1.Exercise1">
+        <test-method status="PASS" signature="setupSuite()[pri:0, instance:fa.edu.excercise1.Exercise1@5ae9a829]" name="setupSuite" is-config="true" duration-ms="13" started-at="2019-03-19T09:14:54Z" finished-at="2019-03-19T09:14:54Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setupSuite -->
+        <test-method status="PASS" signature="setupTests()[pri:0, instance:fa.edu.excercise1.Exercise1@5ae9a829]" name="setupTests" is-config="true" duration-ms="0" started-at="2019-03-19T09:14:54Z" finished-at="2019-03-19T09:14:54Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setupTests -->
+        <test-method status="PASS" signature="setupClass()[pri:0, instance:fa.edu.excercise1.Exercise1@5ae9a829]" name="setupClass" is-config="true" duration-ms="0" started-at="2019-03-19T09:14:54Z" finished-at="2019-03-19T09:14:54Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setupClass -->
+        <test-method status="PASS" signature="setupTest()[pri:0, instance:fa.edu.excercise1.Exercise1@5ae9a829]" name="setupTest" is-config="true" duration-ms="1" started-at="2019-03-19T09:14:54Z" finished-at="2019-03-19T09:14:54Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setupTest -->
+        <test-method status="PASS" signature="TestCase1()[pri:0, instance:fa.edu.excercise1.Exercise1@5ae9a829]" name="TestCase1" duration-ms="7" started-at="2019-03-19T09:14:54Z" finished-at="2019-03-19T09:14:54Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestCase1 -->
+        <test-method status="PASS" signature="teardownTest()[pri:0, instance:fa.edu.excercise1.Exercise1@5ae9a829]" name="teardownTest" is-config="true" duration-ms="0" started-at="2019-03-19T09:14:54Z" finished-at="2019-03-19T09:14:54Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardownTest -->
+        <test-method status="PASS" signature="TestCase2()[pri:0, instance:fa.edu.excercise1.Exercise1@5ae9a829]" name="TestCase2" duration-ms="2" started-at="2019-03-19T09:14:54Z" finished-at="2019-03-19T09:14:54Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestCase2 -->
+        <test-method status="PASS" signature="setupTest()[pri:0, instance:fa.edu.excercise1.Exercise1@5ae9a829]" name="setupTest" is-config="true" duration-ms="0" started-at="2019-03-19T09:14:54Z" finished-at="2019-03-19T09:14:54Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setupTest -->
+        <test-method status="PASS" signature="teardownTest()[pri:0, instance:fa.edu.excercise1.Exercise1@5ae9a829]" name="teardownTest" is-config="true" duration-ms="1" started-at="2019-03-19T09:14:54Z" finished-at="2019-03-19T09:14:54Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardownTest -->
+        <test-method status="PASS" signature="teardownClass()[pri:0, instance:fa.edu.excercise1.Exercise1@5ae9a829]" name="teardownClass" is-config="true" duration-ms="2" started-at="2019-03-19T09:14:54Z" finished-at="2019-03-19T09:14:54Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardownClass -->
+        <test-method status="PASS" signature="teardownTests()[pri:0, instance:fa.edu.excercise1.Exercise1@5ae9a829]" name="teardownTests" is-config="true" duration-ms="0" started-at="2019-03-19T09:14:55Z" finished-at="2019-03-19T09:14:55Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardownTests -->
+        <test-method status="PASS" signature="teartdownSuite()[pri:0, instance:fa.edu.excercise1.Exercise1@5ae9a829]" name="teartdownSuite" is-config="true" duration-ms="0" started-at="2019-03-19T09:15:00Z" finished-at="2019-03-19T09:15:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teartdownSuite -->
+      </class> <!-- fa.edu.excercise1.Exercise1 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
