@@ -1,0 +1,1 @@
+call java -Dwebdriver.firefox.driver="src\main\resources\geckodriver.exe" -jar src\main\resources\selenium-server-standalone.jar -role webdriver -hub http://localhost:4444/grid/register -port 5577

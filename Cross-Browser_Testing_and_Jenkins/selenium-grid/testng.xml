@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="Parallel test suite" parallel="tests" thread-count="3">
+	<test name="Windows_IE_Test">
+		<parameters>
+			<parameter name="platform" value="Windows" />
+			<parameter name="browser" value="Internet Explorer" />
+		</parameters>
+		<classes>
+			<class name="com.fpt.seleniumGrid.TestParallel" />
+		</classes>
+	</test>
+	<test name="Windows_Chrome_Test">
+		<parameters>
+			<parameter name="platform" value="Windows" />
+			<parameter name="browser" value="Chrome" />
+		</parameters>
+		<classes>
+			<class name="com.fpt.seleniumGrid.TestParallel" />
+		</classes>
+	</test>
+	<test name="Windows_Firefox_Test">
+		<parameters>
+			<parameter name="platform" value="Windows" />
+			<parameter name="browser" value="Firefox" />
+		</parameters>
+		<classes>
+			<class name="com.fpt.seleniumGrid.TestParallel" />
+		</classes>
+	</test>
+	<test name="Windows_HeadlessMode_Test">
+	<parameters>
+			<parameter name="platform" value="Windows" />
+			<parameter name="browser" value="HeadlessMode" />
+		</parameters>
+		<classes>
+			<class name="com.fpt.seleniumGrid.TestParallel" />
+		</classes>
+	</test>
+</suite>

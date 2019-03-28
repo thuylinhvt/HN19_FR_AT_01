@@ -1,0 +1,16 @@
+-------------------------------------------------------------------------------
+Test set: com.fpt.NewTest
+-------------------------------------------------------------------------------
+Tests run: 11, Failures: 1, Errors: 0, Skipped: 10, Time elapsed: 10.564 sec <<< FAILURE!
+setup(com.fpt.NewTest)  Time elapsed: 0.404 sec  <<< FAILURE!
+java.lang.IllegalStateException: The driver is not executable: /Users/apple/eclipse-workspace/Assignment2_Cross-Browser_Testing_and_Jenkins/chromedriver
+	at com.google.common.base.Preconditions.checkState(Preconditions.java:585)
+	at org.openqa.selenium.remote.service.DriverService.checkExecutable(DriverService.java:141)
+	at org.openqa.selenium.remote.service.DriverService.findExecutable(DriverService.java:132)
+	at org.openqa.selenium.chrome.ChromeDriverService.access$000(ChromeDriverService.java:35)
+	at org.openqa.selenium.chrome.ChromeDriverService$Builder.findDefaultExecutable(ChromeDriverService.java:156)
+	at org.openqa.selenium.remote.service.DriverService$Builder.build(DriverService.java:346)
+	at org.openqa.selenium.chrome.ChromeDriverService.createDefaultService(ChromeDriverService.java:91)
+	at org.openqa.selenium.chrome.ChromeDriver.<init>(ChromeDriver.java:123)
+	at com.fpt.NewTest.setup(NewTest.java:20)
+

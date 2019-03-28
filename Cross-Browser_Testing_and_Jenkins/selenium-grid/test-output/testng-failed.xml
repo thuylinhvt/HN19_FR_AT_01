@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite thread-count="3" name="Failed suite [Parallel test suite]" parallel="tests">
+  <test thread-count="3" name="Windows_HeadlessMode_Test(failed)" parallel="tests">
+    <parameter name="browser" value="HeadlessMode"/>
+    <parameter name="platform" value="Windows"/>
+    <classes>
+      <class name="com.fpt.seleniumGrid.TestParallel">
+        <methods>
+          <include name="beforeClass"/>
+          <include name="afterClass"/>
+          <include name="testGooglePageTitleInChrome"/>
+          <include name="testSearchGoogle"/>
+        </methods>
+      </class> <!-- com.fpt.seleniumGrid.TestParallel -->
+    </classes>
+  </test> <!-- Windows_HeadlessMode_Test(failed) -->
+</suite> <!-- Failed suite [Parallel test suite] -->

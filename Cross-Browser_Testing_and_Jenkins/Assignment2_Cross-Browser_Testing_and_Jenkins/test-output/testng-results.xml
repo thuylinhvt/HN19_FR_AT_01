@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="8" passed="8">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="25711" started-at="2019-03-27T08:03:40Z" finished-at="2019-03-27T08:04:06Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="25711" started-at="2019-03-27T08:03:40Z" finished-at="2019-03-27T08:04:06Z">
+      <class name="com.fpt.NewTest">
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.fpt.NewTest@5b275dab]" name="setup" is-config="true" duration-ms="13085" started-at="2019-03-27T08:03:40Z" finished-at="2019-03-27T08:03:53Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="clickContactButton()[pri:0, instance:com.fpt.NewTest@5b275dab]" name="clickContactButton" duration-ms="1722" started-at="2019-03-27T08:03:53Z" finished-at="2019-03-27T08:03:55Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clickContactButton -->
+        <test-method status="PASS" signature="checkDisplay()[pri:1, instance:com.fpt.NewTest@5b275dab]" name="checkDisplay" duration-ms="5340" started-at="2019-03-27T08:03:55Z" finished-at="2019-03-27T08:04:01Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkDisplay -->
+        <test-method status="PASS" signature="testSelectCustomerService()[pri:2, instance:com.fpt.NewTest@5b275dab]" name="testSelectCustomerService" duration-ms="175" started-at="2019-03-27T08:04:01Z" finished-at="2019-03-27T08:04:01Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testSelectCustomerService -->
+        <test-method status="PASS" signature="testInputEmail()[pri:3, instance:com.fpt.NewTest@5b275dab]" name="testInputEmail" duration-ms="239" started-at="2019-03-27T08:04:01Z" finished-at="2019-03-27T08:04:01Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testInputEmail -->
+        <test-method status="PASS" signature="testInputOrderReference()[pri:4, instance:com.fpt.NewTest@5b275dab]" name="testInputOrderReference" duration-ms="228" started-at="2019-03-27T08:04:01Z" finished-at="2019-03-27T08:04:01Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testInputOrderReference -->
+        <test-method status="PASS" signature="testInputMessage()[pri:6, instance:com.fpt.NewTest@5b275dab]" name="testInputMessage" duration-ms="294" started-at="2019-03-27T08:04:01Z" finished-at="2019-03-27T08:04:01Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testInputMessage -->
+        <test-method status="PASS" signature="testClickSendButton()[pri:7, instance:com.fpt.NewTest@5b275dab]" name="testClickSendButton" duration-ms="3794" started-at="2019-03-27T08:04:01Z" finished-at="2019-03-27T08:04:05Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testClickSendButton -->
+        <test-method status="PASS" signature="testVerifyText()[pri:8, instance:com.fpt.NewTest@5b275dab]" name="testVerifyText" duration-ms="77" started-at="2019-03-27T08:04:05Z" finished-at="2019-03-27T08:04:05Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testVerifyText -->
+        <test-method status="PASS" signature="teardown()[pri:0, instance:com.fpt.NewTest@5b275dab]" name="teardown" is-config="true" duration-ms="705" started-at="2019-03-27T08:04:05Z" finished-at="2019-03-27T08:04:06Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- com.fpt.NewTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
